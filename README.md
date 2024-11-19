@@ -1,6 +1,4 @@
 
-<img src="https://github.com/user-attachments/assets/900b6301-f6b0-4eea-a4b7-c2163b31d6a1"  />
-
 
 <h1 align="center">Hi 👋, I'm Yagiz</h1>
 <h3 align="center">WEB & MOBILE DEVELOPER</h3>
