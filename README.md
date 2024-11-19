@@ -1,5 +1,6 @@
 
-
+<div style="display:flex; justify-content:center; align-items:center;">
+  
 <h1 align="center">Hi 👋, I'm Yagiz</h1>
 <h3 align="center">WEB & MOBILE DEVELOPER</h3>
 
@@ -26,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagiztopaldemir&show_icons=true&locale=en" alt="yagiztopaldemir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yagiztopaldemir&" alt="yagiztopaldemir" /></p>
+
+</div>
