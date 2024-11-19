@@ -1,3 +1,7 @@
+
+![Uploading star-wars-backgrounds-06_c61e21f4.jpeg…]()
+
+
 <h1 align="center">Hi 👋, I'm Yagiz</h1>
 <h3 align="center">WEB & MOBILE DEVELOPER</h3>
 
